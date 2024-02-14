@@ -1,0 +1,29 @@
+.event-1-box {
+    display: flex;
+    justify-content: stretch;
+    gap:50px; 
+    padding-left: 30px;
+    padding-top: 0px;
+  }
+  
+  .event-image-2{
+    padding-top: 50px;
+    height: 110px;
+    width: 110px;
+  }
+  .event-image-3{
+    padding-top: 50px;
+    height: 110px;
+    width: 200px;
+  }
+  /* .o-e-1{
+    background-image: url("https://img.freepik.com/free-vector/realistic-dynamic-fog-background_23-2149111508.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707782400&semt=ais");
+  } */
+  .events-h1{
+    font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  }

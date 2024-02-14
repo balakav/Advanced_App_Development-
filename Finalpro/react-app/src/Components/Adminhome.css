@@ -1,0 +1,40 @@
+.admin-home{
+    background-image: url("https://drexel.edu/~/media/Drexel/Sites/Core/Images/admissions/visit-tours/virtual-background-downloads/blue-pattern.ashx");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.admin-h1{
+    color: white;
+    margin-left: 200px;
+    padding-top: 150px;
+}
+.admin-home-but1 a{
+    color: white;
+    text-decoration: none;
+}
+
+.admin-home a{
+    text-decoration: none;
+}
+
+.ad-1 a{
+    text-decoration: none;
+} 
+
+.ah-button-1 a:link{
+    text-decoration: none;
+    color: white;
+}
+.admin-home-but1 a:link {
+    text-decoration: none;
+ }
+ 
+ .adminhome-par1{
+    color: white;
+    margin-left: 190px;
+ }
+ .marquee-1{
+  font-size: large;
+  font-size: 50px;
+ }
